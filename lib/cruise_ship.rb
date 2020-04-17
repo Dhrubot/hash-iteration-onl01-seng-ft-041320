@@ -11,7 +11,7 @@ def select_winner(passengers)
   winner = ""
   
   passengers.each do |suite, name|
-    
+    if suite 
   end
   winner
 end
